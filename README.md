@@ -47,11 +47,29 @@ Computer Science graduate specializing in cybersecurity and SOC operations. Pass
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
-
+<a href="https://lnkd.in/p/eJuDdpjZ"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+    
+<h2>👨‍💻 Cybersecurity Projects (links Attached):</h2>
 ## Projects
-- links coming soon 
+
+- links coming soon
+- <b>Project 1: Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Project Coming soon](URL)
+- <b>Project 2</b>
+  - [Project Coming Soon](URL)
+  - [SOC (Project Coming Soon)](URL)
+- <b>Youtube Demo</b>
+  - [Demo Coming Soon](URL)
+
+
+
+
+##
+|<h2> 🤳 Connect with me:</h2>
+
+<a href="https://www.linkedin.com/in/-254-victor-jumo"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.strava.com/athletes/your-athlete-id"><img src="https://img.shields.io/badge/-Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" /></a>
 
 <!--
 **victor-jumo/victor-jumo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
