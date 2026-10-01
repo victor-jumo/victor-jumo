@@ -1,30 +1,5 @@
 # Hello, I'm Victor
-<a href="https://www.linkedin.com/in/-254-victor-jumo"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<nav>
-        <a href="index.html">Home</a>
-        <a href="about.html">About</a>
-        <a href="skills.html">Skills</a>
-        <a href="projects.html">Projects</a>
-        <a href="education.html">Education</a>
-        <a href="certifications.html">Certifications</a>
-        <a href="resume.html">Resume</a>
-        <a href="contact.html">Contact</a>
-    </nav>
-    
-<header>
-    <nav>
-        <a href="#about me"> About Me</a>
-        <a href="#skills">Skills</a>
-        <a href="#objective">Objective</a>
-        <a href="#certifications">Certifications</a>
-        <a href="#projects">Projects</a>
-        <a href="#education">Education</a>
-        <a href="#resume">Resume</a>
-        <a href="#connect">Contact</a>
-    </nav>
-</header>
-
-
+<a href="https://www.linkedin.com/in/-254-victor-jumo"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>👨‍💻
 ## About Me
 I am a cybersecurity graduate with an academic foundation in computer science and hands-on experience developing security-focused projects and virtualized laboratory environments. My interests include **Security Operations (SOC), Identity and Access Management (IAM), Digital Forensics, threat detection, and incident response**.
 
