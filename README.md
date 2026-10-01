@@ -1,13 +1,40 @@
 # Hello, I'm Victor
 <a href="https://www.linkedin.com/in/-254-victor-jumo"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="skills.html">Skills</a>
+        <a href="projects.html">Projects</a>
+        <a href="education.html">Education</a>
+        <a href="certifications.html">Certifications</a>
+        <a href="resume.html">Resume</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+    
+<header>
+    <nav>
+        <a href="#about me"> About Me</a>
+        <a href="#skills">Skills</a>
+        <a href="#objective">Objective</a>
+        <a href="#certifications">Certifications</a>
+        <a href="#projects">Projects</a>
+        <a href="#education">Education</a>
+        <a href="#resume">Resume</a>
+        <a href="#connect">Contact</a>
+    </nav>
+</header>
 
-## Introduction
 
-Analytical and detail-oriented cybersecurity graduate with a hands-on foundation in network security, threat analysis, and systems administration. Passionate about understanding how systems work under the hood and leveraging modern security tools to build resilient, reliable environments
+## About Me
+I am a cybersecurity graduate with an academic foundation in computer science and hands-on experience developing security-focused projects and virtualized laboratory environments. My interests include **Security Operations (SOC), Identity and Access Management (IAM), Digital Forensics, threat detection, and incident response**.
+
+Through academic projects, cybersecurity labs, certifications, and practical experience with tools such as **Wazuh, Linux, Wireshark, Nmap, and VirtualBox**, I have developed an interest in applying cybersecurity concepts to real-world security challenges. I am particularly interested in opportunities where I can strengthen my technical skills, contribute to security operations, investigate threats, and help organizations protect their systems, identities, and data.
+
 
 ## Objective
 
-Computer Science graduate specializing in cybersecurity and SOC operations. Passionate about proactive threat detection, log analysis, and enterprise monitoring. Actively seeking to apply hands-on experience with SIEM platforms, packet analysis, and security auditing tools to defend critical infrastructure as a Tier 1 SOC Analyst
+I am aspiring cybersecurity professional focused on **Identity and Access Management, Digital Forensics, and Security Operations**, with a commitment to combining academic knowledge, industry certifications, and hands-on laboratory experience. I aim to contribute to organizations by applying practical cybersecurity skills to **detect threats, protect digital identities, investigate security incidents, and strengthen organizational security operations**, while continuously expanding my technical expertise.
+
 
 ## Skills
 
@@ -21,7 +48,6 @@ Computer Science graduate specializing in cybersecurity and SOC operations. Pass
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-
 
 ### Network
 <div>
@@ -62,14 +88,29 @@ Computer Science graduate specializing in cybersecurity and SOC operations. Pass
 - <b>Youtube Demo</b>
   - [Demo Coming Soon](URL)
 
+## Education
+**Bachelor of Science in Computer Science (Cybersecurity Track)**
+*Norfolk State University*
+*Expected Graduation: Dec 2025*
+
+**Relevant Coursework**
+
+* Cybersecurity
+* Computer Networks
+* Operating Systems
+* Database Systems
+* Data Structures & Algorithms
+* Cryptography
+* Computer Architecture
+* Network Defense & Security
 
 
-
-##
+## Resume
 |<h2> 🤳 Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/-254-victor-jumo"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.strava.com/athletes/your-athlete-id"><img src="https://img.shields.io/badge/-Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" /></a>
+
 
 <!--
 **victor-jumo/victor-jumo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
