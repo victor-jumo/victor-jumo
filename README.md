@@ -17,10 +17,10 @@ I am aspiring cybersecurity professional focused on **Identity and Access Manage
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| |
+| |
+| |
+| |
 
 ## Tools
 
@@ -63,7 +63,7 @@ Tool Deep-Dives
 <a href="https://lnkd.in/p/eJuDdpjZ"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
     
-<h2>👨‍💻 Cybersecurity Projects (links Attached):</h2>
+<h2>👨‍💻 Projects (links Attached):</h2>
 ## Projects
 
 - links coming soon
@@ -93,7 +93,8 @@ Tool Deep-Dives
 
 
 ## Resume
-|<h2> 🤳 Connect with me:</h2>
+ <a href="https://google.com">Downloadable .pdf</a>
+<h2> 🤳 Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/-254-victor-jumo"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.strava.com/athletes/your-athlete-id"><img src="https://img.shields.io/badge/-Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" /></a>
