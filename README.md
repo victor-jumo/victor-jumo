@@ -46,6 +46,18 @@ I am aspiring cybersecurity professional focused on **Identity and Access Manage
   <img src="https://img.shields.io/badge/-Wazuh-000000?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
+Tool Deep-Dives
+-----------------
+
+| Tool                                           | Practice            |
+|------------------------------------------------|----------------------------|
+| 1.  Wazuh                                       | <a href="https://google.com">Wazuh-logs</a>|
+| 2.  Microsoft Sentinel                          | <a href="https://google.com">Microsoft Sentinel Dashboard</a>|
+| 3.  Wireshark                                            
+| 4.
+| 5.
+| 6.
+| 7.
 ## Certifications
 <div>
 <a href="https://lnkd.in/p/eJuDdpjZ"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
